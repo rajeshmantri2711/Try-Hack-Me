@@ -5,5 +5,5 @@
 <div align="left">
 
 ## [Room Link](https://tryhackme.com/room/debug)
-# [Nmap Findings](/nmap.txt)
+# [Nmap Findings](nmap.txt)
   
