@@ -1,1 +1,9 @@
-[![TryHackMe: Debug](https://img.shields.io/badge/TryHackMe-Debug-blue)](https://tryhackme.com/room/debug)
+<div align="center">
+  <h1>DEBUG</h1>
+</div>
+
+<div align="left">
+
+## [Room Link](https://tryhackme.com/room/debug)
+# [Nmap Findings](/nmap.txt)
+  
