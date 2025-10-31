@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tryhackme.com/p/iamsinner"><h1>Try-Hack-Me</h1></a>
+  [Try-Hack-Me](https://tryhackme.com/p/iamsinner)
 </p>
 
 <div align="left">
