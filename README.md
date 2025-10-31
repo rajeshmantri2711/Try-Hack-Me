@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <a href="https://tryhackme.com/p/iamsinner"><h1>Try-Hack-Me</h1></a>
-</p>
+</div>
 
 <div align="left">
 
